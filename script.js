@@ -1,5 +1,5 @@
 const lista = document.getElementById("lista");
-var personas =['Sergio Rodriguez','El cri cri','Jebsito','Grisel Reza']
+var personas =['Kevin Lopez','El cri cri','Jebsito','Grisel Reza']
 
 const agregarpersona = () =>{
     var nombre = document.getElementById("nombre");
